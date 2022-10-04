@@ -1,2 +1,2 @@
-# flutterfocus
-A source for educational content and OSS exclusive to Dart 🎯 and Flutter 🕊️.
+# Hello there! 👋
+Flutter Focus is a source for educational content and OSS exclusive to Dart 🎯 and Flutter 🕊️.
