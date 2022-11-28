@@ -1,13 +1,16 @@
 {
-  "name": "Flutter Focus",
-  "sidebar": [
-    [
-      "About",
-      "/about"
-    ],
-    [
-      "Getting Started",
-      "/getting-started"
+    "name": "Flutter Focus",
+    "sidebar": [
+        [
+            "About",
+            [
+                "Getting Started",
+                "/getting-started"
+            ]
+        ],
+        [
+            "Getting Started",
+            "/getting-started"
+        ]
     ]
-  ]
 }
