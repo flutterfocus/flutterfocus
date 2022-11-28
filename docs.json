@@ -17,6 +17,10 @@
                 [
                     "Sponsored Packages",
                     "/sponsored_packages"
+                ],
+                [
+                    "Package Categories",
+                    "/package_categories"
                 ]
             ]
         ],
