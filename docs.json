@@ -2,15 +2,19 @@
     "name": "Flutter Focus",
     "sidebar": [
         [
-            "Example",
-            "/example"
+            "About",
+            "/about"
         ],
         [
-            "Section Title",
+            "Getting the packages",
             [
                 [
-                    "Nested Title",
-                    "/nested-example"
+                    "Public packages",
+                    "/public_packages"
+                ],
+                [
+                    "Sponsored packages",
+                    "/sponsored_packages"
                 ]
             ]
         ]
