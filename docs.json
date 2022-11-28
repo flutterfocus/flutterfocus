@@ -6,6 +6,9 @@
             "/about"
         ],
         [
+            "Package list"
+        ],
+        [
             "Getting the packages",
             [
                 [
@@ -17,6 +20,6 @@
                     "/sponsored_packages"
                 ]
             ]
-        ]
+        ],
     ]
 }
