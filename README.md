@@ -6,5 +6,6 @@ Flutter Focus is a mission to grow and house software exclusive to Dart 🎯 and
 
 ## Get started
 - [Get the packages](#get-the-packages) 
+- [Documentation](https://docs.page/flutterfocus/flutterfocus/)
 - [Learn about Dart / Flutter]() 
 - [Need a Mobile App, Web Design or Video Marketing?](https://cyberpod.nz) 

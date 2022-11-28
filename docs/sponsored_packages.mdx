@@ -1,1 +1,29 @@
 # Sponsored packages
+
+## Authenticate with Github CLI
+**Sponsor packages require an active sponsorship** and Github CLI to be authenticated while public packages don't. If you only require access to the public packages, you can skip this step.
+
+If you're not already authenticated with the Github CLI, follow the steps outlined in the [Github CLI getting started guide](https://docs.github.com/en/enterprise-cloud@latest/github-cli/github-cli/quickstart).
+
+## Add the packages to your project
+
+1. Open a terminal and `cd` to your project directory root (where `pubspec.yaml` is located).
+```bash
+cd your/project/directory/root
+```
+
+2. Select a sponsorship tier at our [sponsorship profile]().
+
+3. Add the repository tier to your project.
+
+| Packages | Git                                                | dart pub add                                                                                       | Public / Sponsor                                     |
+|----------|----------------------------------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------|
+| Tier 1   | https://github.com/flutterfocus/packages-tier1.git | `dart pub add http --git-url=https://github.com/flutterfocus/ff-packages-tier1--git-ref=main` | [Sponsor](https://github.com/sponsors/flutterfocus/) |
+| Tier 2   | https://github.com/flutterfocus/packages-tier2.git | `dart pub add http --git-url=https://github.com/flutterfocus/ff-packages-tier2--git-ref=main` | [Sponsor](https://github.com/sponsors/flutterfocus/) |
+| Tier 3   | https://github.com/flutterfocus/packages-tier3.git | `dart pub add http --git-url=https://github.com/flutterfocus/ff-packages-tier3--git-ref=main` | [Sponsor](https://github.com/sponsors/flutterfocus/) |
+
+
+3. Run `dart pub get` to get the dependencies.
+```bash
+dart pub get
+```
