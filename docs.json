@@ -1,16 +1,21 @@
 {
     "name": "Flutter Focus",
     "sidebar": [
+        [
             "About",
+            "/index"
+        ],
         [
             "Flutter Focus",
             [
-                "Public Packages",
-                "/public_packages"
-            ],
-            [
-                "Sponsored Packages",
-                "/sponsored_packages"
+                [
+                    "Public Packages",
+                    "/public_packages"
+                ],
+                [
+                    "Sponsored Packages",
+                    "/sponsored_packages"
+                ]
             ]
         ],
         [
