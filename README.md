@@ -1,6 +1,10 @@
-# Hello there! 👋
-Flutter Focus is a source for educational content and OSS exclusive to Dart 🎯 and Flutter 🕊️.
+# Flutter Focus  🕊️
 
-Check us out on Youtube **[@flutterfocus](https://www.youtube.com/@flutterfocus)** for tutorials and video content.
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Channel-informational?style=flat&logo=youtube&logoColor=red&color=red)](https://youtube.com/@flutterfocus) [![Twitter Badge](https://img.shields.io/badge/@Twitter-Profile-informational?style=flat&logo=twitter&logoColor=lightblue&color=1CA2F1)](https://twitter.com/flutterfocus) [![Facebook Badge](https://img.shields.io/badge/Facebook-Page-informational?style=flat&logo=facebook&logoColor=blue&color=blue)](https://facebook.com/100087888923303)
 
-For **Web design, Media or Marketing** enquiries, contact us at [flutterfocusdev@gmail.com](flutterfocusdev@gmail.com)
+Flutter Focus is a mission to grow and house software exclusive to Dart 🎯 and Flutter 🕊. The goal is to provide the community with a range of libraries, tooling and educational content that follows a finely defined consistency across API's, packaging and resource formatting.
+
+## Get started
+- [Get the packages](#get-the-packages) 
+- [Learn about Dart / Flutter]() 
+- [Need a Mobile App, Web Design or Video Marketing?](https://cyberpod.nz) 
