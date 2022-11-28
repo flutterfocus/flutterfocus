@@ -6,28 +6,15 @@
             "/index"
         ],
         [
-            "Sponsored Packages",
+            "Packages",
             [
                 [
-                    "Package 01",
-                    "/package_01"
+                    "Public Packages",
+                    "/public_packages"
                 ],
                 [
-                    "Package 02",
-                    "/package_02"
-                ]
-            ]
-        ],
-        [
-            "Public Packages",
-            [
-                [
-                    "Package 01",
-                    "/package_01"
-                ],
-                [
-                    "Package 02",
-                    "/package_02"
+                    "Sponsored Packages",
+                    "/sponsored_packages"
                 ]
             ]
         ],
