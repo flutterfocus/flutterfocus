@@ -2,15 +2,17 @@
     "name": "Flutter Focus",
     "sidebar": [
         [
-            "About",
-            [
-                "Getting Started",
-                "/getting-started"
-            ]
+            "Example",
+            "/example"
         ],
         [
-            "Getting Started",
-            "/getting-started"
+            "Section Title",
+            [
+                [
+                    "Nested Title",
+                    "/nested-example"
+                ]
+            ]
         ]
     ]
 }
