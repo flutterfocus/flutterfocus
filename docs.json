@@ -1,6 +1,7 @@
 {
     "name": "Flutter Focus",
     "headerDepth": 1,
+    "theme": "#FFA500",
     "sidebar": [
         [
             "About",
