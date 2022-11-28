@@ -13,6 +13,10 @@
             "Getting the packages",
             [
                 [
+                    "Authenticate with Github CLI",
+                    "/github_cli"
+                ],
+                [
                     "Public packages",
                     "/public_packages"
                 ],
