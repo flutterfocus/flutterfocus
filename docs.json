@@ -2,11 +2,11 @@
     "name": "Flutter Focus",
     "sidebar": [
         [
+            "About",
+            "/index"
+        ],
+        [
             "Flutter Focus",
-            [
-                "About",
-                "/index"
-            ],
             [
                 "Public Packages",
                 "/public_packages"
