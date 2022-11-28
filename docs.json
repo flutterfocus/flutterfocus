@@ -6,7 +6,8 @@
             "/about"
         ],
         [
-            "Package list"
+            "Full package list",
+            "/full_package_list"
         ],
         [
             "Getting the packages",
