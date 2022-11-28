@@ -2,7 +2,8 @@
   "name": "Flutter Focus",
   "sidebar": [
     [
-      "About"
+      "About",
+      "/about"
     ],
     [
       "Getting Started",
