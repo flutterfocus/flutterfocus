@@ -6,16 +6,8 @@
             "/about"
         ],
         [
-            "Full package list",
-            "/full_package_list"
-        ],
-        [
-            "Getting the packages",
+            "Packages",
             [
-                [
-                    "Github CLI authentication ",
-                    "/github_cli"
-                ],
                 [
                     "Public packages",
                     "/public_packages"
@@ -24,6 +16,15 @@
                     "Sponsored packages",
                     "/sponsored_packages"
                 ]
+            ]
+        ],
+        [
+            "Getting the packages",
+            [
+                [
+                    "Github CLI authentication ",
+                    "/github_cli"
+                ],
             ]
         ]
     ]
