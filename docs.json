@@ -3,15 +3,18 @@
     "sidebar": [
         [
             "Flutter Focus",
-            "/index"
-        ],
-        [
-            "Public Packages",
-            "/public_packages"
-        ],
-        [
-            "Sponsored Packages",
-            "/sponsored_packages"
+            [
+                "About",
+                "/index"
+            ],
+            [
+                "Public Packages",
+                "/public_packages"
+            ],
+            [
+                "Sponsored Packages",
+                "/sponsored_packages"
+            ]
         ],
         [
             "Getting the packages",
