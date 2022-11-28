@@ -10,7 +10,14 @@
             [
                 [
                     "Public packages",
-                    "/public_packages"
+                    [
+                        "Package 01",
+                        "/package_01"
+                    ],
+                    [
+                        "Package 02",
+                        "/package_02"
+                    ]
                 ],
                 [
                     "Sponsored packages",
