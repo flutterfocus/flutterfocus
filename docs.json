@@ -13,7 +13,7 @@
             "Getting the packages",
             [
                 [
-                    "Authenticate with Github CLI",
+                    "Github CLI authentication ",
                     "/github_cli"
                 ],
                 [
