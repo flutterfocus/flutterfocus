@@ -11,24 +11,40 @@
             "Packages",
             [
                 [
-                    "Package Categories",
-                    "/package_categories"
+                    "Getting started",
+                    "/packages/getting_started"
                 ],
                 [
-                    "Public Packages",
-                    "/public_packages"
+                    "T1 - Async, Streams & State",
+                    "/packages/tier1"
                 ],
                 [
-                    "Tier 1 Packages",
-                    "/tier1_packages"
+                    "T2 - Third-party Integrations",
+                    "/packages/tier2"
                 ],
                 [
-                    "Tier 2 Packages",
-                    "/tier2_packages"
+                    "T3 - Backend & Web",
+                    "/packages/tier3"
                 ],
                 [
-                    "Tier 3 Packages",
-                    "/tier3_packages"
+                    "T4 - Text & Styling",
+                    "/packages/tier4"
+                ],
+                [
+                    "T5 - Animation & Effects",
+                    "/packages/tier5"
+                ],
+                [
+                    "T6 - Input & Interaction",
+                    "/packages/tier6"
+                ],
+                [
+                    "T7 - Layout & Painting",
+                    "/packages/tier7"
+                ],
+                [
+                    "T8 - Assets & Scrolling",
+                    "/packages/tier8"
                 ]
             ]
         ]
