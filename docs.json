@@ -11,16 +11,24 @@
             "Packages",
             [
                 [
+                    "Package Categories",
+                    "/package_categories"
+                ],
+                [
                     "Public Packages",
                     "/public_packages"
                 ],
                 [
-                    "Sponsored Packages",
-                    "/sponsored_packages"
+                    "Tier 1 Packages",
+                    "/tier1_packages"
                 ],
                 [
-                    "Package Categories",
-                    "/package_categories"
+                    "Tier 2 Packages",
+                    "/tier2_packages"
+                ],
+                [
+                    "Tier 3 Packages",
+                    "/tier3_packages"
                 ]
             ]
         ]
