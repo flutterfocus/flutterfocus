@@ -23,15 +23,6 @@
                     "/package_categories"
                 ]
             ]
-        ],
-        [
-            "Getting the packages",
-            [
-                [
-                    "Github CLI authentication ",
-                    "/github_cli"
-                ]
-            ]
         ]
     ]
 }
