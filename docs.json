@@ -8,43 +8,43 @@
             "/index"
         ],
         [
+            "Getting started",
+            "/packages/getting_started"
+        ],
+        [
             "Packages",
             [
                 [
-                    "Getting started",
-                    "/packages/getting_started"
-                ],
-                [
-                    "T1 - Async & State",
+                    "Async, Streams & State",
                     "/packages/tier1"
                 ],
                 [
-                    "T2 - 3rd-party Integration",
+                    "Integrations",
                     "/packages/tier2"
                 ],
                 [
-                    "T3 - Backend & Web",
-                    "/packages/tier3"
-                ],
-                [
-                    "T4 - Text & Styling",
-                    "/packages/tier4"
-                ],
-                [
-                    "T5 - Animation & Effects",
+                    "Animation & UI Elements",
                     "/packages/tier5"
                 ],
                 [
-                    "T6 - Input & Interaction",
+                    "Layout, Positioning & Sizing",
                     "/packages/tier6"
                 ],
                 [
-                    "T7 - Layout & Painting",
+                    "Internationalization, Input & Text",
                     "/packages/tier7"
                 ],
                 [
-                    "T8 - Assets & Scrolling",
+                    "Interaction & Scrolling",
                     "/packages/tier8"
+                ],
+                [
+                    "Painting, Effects & Styling",
+                    "/packages/tier8"
+                ],
+                [
+                    "Assets",
+                    "/packages/tier4"
                 ]
             ]
         ]
