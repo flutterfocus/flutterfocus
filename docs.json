@@ -24,27 +24,27 @@
                 ],
                 [
                     "Animation & UI Elements",
-                    "/packages/tier5"
+                    "/packages/tier3"
                 ],
                 [
                     "Layout, Positioning & Sizing",
-                    "/packages/tier6"
+                    "/packages/tier4"
                 ],
                 [
                     "Internationalization, Input & Text",
-                    "/packages/tier7"
+                    "/packages/tier5"
                 ],
                 [
                     "Interaction & Scrolling",
-                    "/packages/tier8"
+                    "/packages/tier6"
                 ],
                 [
                     "Painting, Effects & Styling",
-                    "/packages/tier8"
+                    "/packages/tier7"
                 ],
                 [
                     "Assets",
-                    "/packages/tier4"
+                    "/packages/tier8"
                 ]
             ]
         ]
