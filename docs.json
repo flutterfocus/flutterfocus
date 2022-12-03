@@ -16,35 +16,35 @@
             [
                 [
                     "Async, Streams & State",
-                    "/packages/tier1"
+                    "/packages/category1"
                 ],
                 [
                     "Integrations",
-                    "/packages/tier2"
+                    "/packages/category2"
                 ],
                 [
                     "Animation & UI Elements",
-                    "/packages/tier3"
+                    "/packages/category3"
                 ],
                 [
-                    "Layout, Positioning & Sizing",
-                    "/packages/tier4"
+                    "Layout, Position & Sizing",
+                    "/packages/category4"
                 ],
                 [
-                    "Internationalization, Input & Text",
-                    "/packages/tier5"
+                    "Language, Input & Text",
+                    "/packages/category5"
                 ],
                 [
                     "Interaction & Scrolling",
-                    "/packages/tier6"
+                    "/packages/category6"
                 ],
                 [
                     "Painting, Effects & Styling",
-                    "/packages/tier7"
+                    "/packages/category7"
                 ],
                 [
                     "Assets",
-                    "/packages/tier8"
+                    "/packages/category8"
                 ]
             ]
         ]
