@@ -5,7 +5,8 @@
 
 **We're still setting things up! ⭐ Star and 👀 watch this repository to be notified of activity.**
 
-Flutter Focus is a mission to grow and house various categories of software exclusive to Dart 🎯 and Flutter 🕊. The goal is to provide the community with a range of libraries, tooling and educational content that follows a finely defined consistency across API's, packaging and resource formatting.
+Flutter Focus specialises in storytelling by mixing Mobile, Web and Video to create interactive multimedia experiences.
+The Flutter Focus mission also contributes to the Dart and the Flutter communities by making available Free and Open Source Software with high quality API's, documentation and educational content.
 
 ## 📦 Packages
 - 📦 [Get **public** packages](https://github.com/flutterfocus/ff-packages-public) 
